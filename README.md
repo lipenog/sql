@@ -8,3 +8,5 @@ mysql -u root -p
 show databases;
 ### Criar um BD
 create database hostelapp_db;
+### Selecionar um BD
+use <nome>
