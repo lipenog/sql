@@ -5,6 +5,6 @@
 ### Logar
 mysql -u root -p 
 ### Mostrar BD's
-show databases
+show databases;
 ### Criar um BD
-create database hostelapp_db
+create database hostelapp_db;
