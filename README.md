@@ -28,3 +28,12 @@ autocommit=true and autocommit=false. The first one commits all transactions dir
 ### DriverManager
 The DriverManager class is in charge of loading the proper database, after this is loaded, the code that access the database for querying
 and modifying data will remain (more or less) unchanged.
+
+### Exemple
+<p align="center">
+  <img src="jdbcex1.png" alt="main">
+</p>
+
+<p align="center">
+  <img src="jdbcex2.png" alt="func">
+</p>
