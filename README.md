@@ -30,10 +30,12 @@ The DriverManager class is in charge of loading the proper database, after this 
 and modifying data will remain (more or less) unchanged.
 
 ### Exemple
-<p align="center">
-  <img src="jdbcex1.png" alt="main">
-</p>
 
-<p align="center">
+ <img src="jdbcex1.png" alt="main">
+
+
   <img src="jdbcex2.png" alt="func">
-</p>
+
+### Batch
+  JDBC offers the possibility to execute a list of SQL statements as a batch, that is, all in a row.
+  <img src="jdbcex3.png" alt="func">
